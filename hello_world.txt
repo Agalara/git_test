@@ -1,0 +1,2 @@
+he abierto este archivo mediante code hello_world.txt, lo he modificado y
+por ultimo, mediante add . , he pasado a stage todos los archivos pendientes.
